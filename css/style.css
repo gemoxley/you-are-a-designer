@@ -1,5 +1,8 @@
 body {
-    background-color: lightblue;
+    background-color: aliceblue;
+    background-image: url(../img/backgroundpattern.svg);
+    background-repeat: repeat;
+    
   }
   
   h1 {
