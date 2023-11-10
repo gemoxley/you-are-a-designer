@@ -9,3 +9,91 @@ body {
     color: navy;
     margin-left: 20px;
   }
+
+  .top_text {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .assets {
+    flex-direction: column;
+    display: flex;
+    height: 600px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+  .color {
+    flex-direction: column;
+    display: flex;
+    height: 600px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+  .free_programs {
+    flex-direction: column;
+    display: flex;
+    height: 600px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+  .typography {
+    flex-direction: column;
+    display: flex;
+    height: 600px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+  .vectors {
+    flex-direction: column;
+    display: flex;
+    height: 600px;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+
+  .why {
+    flex-direction: column;
+    display: flex;
+    height: 600px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .inspire {
+    flex-direction: column;
+    display: flex;
+    height: 900px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .learn {
+    flex-direction: column;
+    display: flex;
+    height: 900px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
